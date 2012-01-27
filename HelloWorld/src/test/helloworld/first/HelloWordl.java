@@ -1,7 +1,7 @@
 package test.helloworld.first;
 
 public class HelloWordl {
-	public void print(){
+	public static void main(String[] args){
 		System.out.println("Hello Wordl!!!");
 	}
 }
